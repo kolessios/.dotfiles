@@ -20,4 +20,3 @@ winget install -e --id Spotify.Spotify
 winget install -e --id RustDesk.RustDesk
 winget install -e --id Microsoft.OneDrive
 winget install -e --id Notion.Notion
-winget install -e --id lencx.ChatGPT
